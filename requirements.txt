@@ -18,7 +18,7 @@ jsonschema==2.6.0
 numpy==1.15.4
 numpydoc==0.8.0
 openalpr==1.0.12
-opencv-contrib-python==4.1.1.26
+opencv-contrib-python==4.2.0.32
 opencv-python==4.1.1.26
 openpyxl==2.5.12
 os-sys==2.0.2
